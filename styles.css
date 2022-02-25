@@ -87,6 +87,7 @@ form small {
   font-style: italic;
   z-index: 100;
   margin: 0 2rem 4rem;
+  font-size: 1rem;
 }
 
 button {
